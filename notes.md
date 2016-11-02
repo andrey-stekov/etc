@@ -49,3 +49,6 @@ d.	Click "Submit" button
 15.	Which versions of Selenium you used? How can I run Selenium3 with Internet Explorer? 
 16.	What you automated with Selenium WebDriver? GWT? Approach? 
 17.	Linux fundamentals, bash scripting, basic commands?
+
+
+https://habrahabr.ru/company/mailru/blog/313880/
