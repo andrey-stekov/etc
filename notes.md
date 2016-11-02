@@ -24,3 +24,28 @@ JavaScript: https://habrahabr.ru/company/hexlet/blog/308934/
 Говорят, в этот раз он пришел за мной...
 
 Юлия Гладкая
+
+
+
+Robot questions:
+1.	Did you use Robot Framework Jar distribution? Can you list some classes and methods from org.robotframework? 
+2.	How many ways there are to write Robot Framework tests? 
+3.	How many ways there are to write Robot keyword library in Java? 
+4.	Do you have experience with Remote Interface?
+5.	Can I have multiple Robot Framework instances utilizing jrobotremoteserver simultaneously?
+6.	What is keyword-driven testing? What are the types? Advantages? Keyword-driven testing can be used only for automated testing? 
+7.	Can you write short Robot test? Here is test:
+a.	Go to homepage
+b.	Type username
+c.	Type password
+d.	Click "Submit" button
+8.	Now I want to write this test in Java.
+9.	How I can run this test with Internet Explorer?
+10.	How I can run this test on remote machine? Can I run this test in Linux? 
+11.	How I can run this test in parallel?
+12.	How I can run this test in Jenkins? 
+13.	What is the difference between TestNG and Junit? 
+14.	How to run test in parallel in TestNG? 
+15.	Which versions of Selenium you used? How can I run Selenium3 with Internet Explorer? 
+16.	What you automated with Selenium WebDriver? GWT? Approach? 
+17.	Linux fundamentals, bash scripting, basic commands?
