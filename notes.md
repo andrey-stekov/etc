@@ -53,3 +53,7 @@ d.	Click "Submit" button
 
 https://habrahabr.ru/company/mailru/blog/313880/
 https://habrahabr.ru/post/313966/
+
+https://github.com/trending/javascript?since=weekly
+https://github.com/verekia/js-stack-from-scratch
+
