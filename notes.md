@@ -75,3 +75,6 @@ https://github.com/verekia/js-stack-from-scratch
 
 http://www.finanse.mf.gov.pl/documents/766655/5125734/Form-PIT-37-23-2016.pdf 
 http://www.finanse.mf.gov.pl/documents/766655/1481810/PIT-37(23)_v1-0E_2016.pdf 
+
+
+https://github.com/raymestalez/django-react-blog
