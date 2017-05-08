@@ -80,3 +80,6 @@ http://www.finanse.mf.gov.pl/documents/766655/1481810/PIT-37(23)_v1-0E_2016.pdf
 https://github.com/raymestalez/django-react-blog
 
 https://github.com/luanfujun/deep-photo-styletransfer
+
+https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/
+https://dev.to/jspeda/using-fetch-and-reduce-to-grab-and-format-data-from-an-external-api---a-practical-guide
