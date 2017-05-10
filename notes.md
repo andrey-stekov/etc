@@ -83,3 +83,5 @@ https://github.com/luanfujun/deep-photo-styletransfer
 
 https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/
 https://dev.to/jspeda/using-fetch-and-reduce-to-grab-and-format-data-from-an-external-api---a-practical-guide
+
+https://python-prompt-toolkit.readthedocs.io/en/latest/
