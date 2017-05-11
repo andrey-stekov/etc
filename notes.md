@@ -85,3 +85,8 @@ https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/
 https://dev.to/jspeda/using-fetch-and-reduce-to-grab-and-format-data-from-an-external-api---a-practical-guide
 
 https://python-prompt-toolkit.readthedocs.io/en/latest/
+
+http://db.csail.mit.edu/sigmod11contest/sigmod_2011_contest_poster_jungsang_ahn.pdf
+https://github.com/couchbase/forestdb
+http://www.mezhov.com/2013/09/sstable-lsm-tree.html
+
