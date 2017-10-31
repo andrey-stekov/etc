@@ -95,3 +95,4 @@ https://habrahabr.ru/company/mailru/blog/329928/
 https://habrahabr.ru/post/329996/
 https://geektimes.ru/post/289951/
 https://geektimes.ru/post/290357/
+https://cs8.pikabu.ru/post_img/2017/09/08/10/1504892430175553698.jpg 
